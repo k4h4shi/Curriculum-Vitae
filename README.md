@@ -12,15 +12,19 @@
 
 ## アピールポイント
 
-* 自律して自由に仕事を行うことを重視しています。
-* 開発や技術が好きで、個人でも開発を行い、技術ブログを運営しています。
-* 技術自体に興味があり、特定の技術を深く掘り下げてエキスパートを目指しています。
+- 自律して自由に仕事を行うことを重視しています。
+- 開発や技術が好きで、個人でも開発を行い、技術ブログを運営しています。
+- 技術自体に興味があり、特定の技術を深く掘り下げてエキスパートを目指しています。
 
 ## ポートフォリオ
 
 ### [k4h4shi.com](http://k4h4shi.com/)
 
 技術ブログを運営しているホームページ。
+
+### [BATON](https://baton.wiki/)
+
+「バトン」に答えて自己紹介をする Web サービス。休日に開発に参加した。
 
 ### [dpndon.io](https://k4h4shi.github.io/dpndon.io/)
 
@@ -54,12 +58,12 @@ Web 技術を学習し、成果物として掲示板システムを構築しま�
 
 ###### 使用技術
 
-* jQuery
-* Java
-* Spring Boot
-* JPA
-* PostgreSQL
-* JUnit
+- jQuery
+- Java
+- Spring Boot
+- JPA
+- PostgreSQL
+- JUnit
 
 ##### 2016 年 1 月: 医療系求人マッチングシステム開発
 
@@ -69,12 +73,12 @@ Selenium による UI テストの自動化を行いました。
 
 ###### 使用技術
 
-* jQuery
-* PHP
-* Apache
-* Laravel
-* MySQL
-* Selenium
+- jQuery
+- PHP
+- Apache
+- Laravel
+- MySQL
+- Selenium
 
 ##### 2016 年 5 月: 従業員勤怠管理システム開発
 
@@ -84,11 +88,11 @@ Selenium による UI テストの自動化を行いました。
 
 ###### 使用技術
 
-* Java
-* Struts
-* weblogic
-* jUnit
-* Oracle DB
+- Java
+- Struts
+- weblogic
+- jUnit
+- Oracle DB
 
 ##### 2016 年 9 月: 社員 ID 管理システム開発
 
@@ -98,12 +102,12 @@ Selenium による UI テストの自動化を行いました。
 
 ###### 使用技術
 
-* jQuery
-* Java
-* Spring MVC
-* MySQL
-* Oracle DB
-* iBatis
+- jQuery
+- Java
+- Spring MVC
+- MySQL
+- Oracle DB
+- iBatis
 
 ##### 2017 年 7 月: 計測震度モニタリング IoT アプリ開発
 
@@ -113,11 +117,11 @@ Selenium による UI テストの自動化を行いました。
 
 ###### 使用技術
 
-* jQuery
-* Node.js
-* Node-RED
-* PostgreSQL
-* Docker
+- jQuery
+- Node.js
+- Node-RED
+- PostgreSQL
+- Docker
 
 ##### 2017 年 10 月: 見守り IoT システムの WebAPI 開発
 
@@ -127,12 +131,12 @@ Selenium による UI テストの自動化を行いました。
 
 ###### 使用技術
 
-* Node.js
-* mocha
-* AWS-Lambda
-* API Gatewary
-* Dynamo DB
-* S3
+- Node.js
+- mocha
+- AWS-Lambda
+- API Gatewary
+- Dynamo DB
+- S3
 
 ##### 2018 年 2 月: 葬儀コンテンツサイトの開発
 
@@ -140,11 +144,11 @@ Selenium による UI テストの自動化を行いました。
 
 ###### 使用技術
 
-* React.js
-* Laravel
-* PHPUnit
-* Docker
-* Swagger
+- React.js
+- Laravel
+- PHPUnit
+- Docker
+- Swagger
 
 ##### 2018 年 4 月: 動画共有アプリケーション WebAPI 開発
 
@@ -152,12 +156,12 @@ Selenium による UI テストの自動化を行いました。
 
 ###### 使用技術
 
-* Laravel
-* PHPUnit
-* Docker
-* Swagger
+- Laravel
+- PHPUnit
+- Docker
+- Swagger
 
-### 2017 年 02 月 - : GreenPitch
+### 2018 年 02 月 - : GreenPitch
 
 #### 職務: ディレクター、フロントエンドエンジニア
 
@@ -165,18 +169,27 @@ Selenium による UI テストの自動化を行いました。
 
 #### 職務内容
 
-##### 2017 年 02 月: サッカーコーチのマッチングアプリの開発
+##### 2018 年 02 月: サッカーコーチのマッチングアプリの開発
 
 2 人規模で、アプリケーションの機能仕様の定義や、アーキテクチャの設計を行なっています。
 
 また、React-Native によるネイティブアプリのフロントエンドの設計、開発、テストも担当しています。
 
+### 2018 年 5 月 : 株式会社 picon
+
+#### 職務: フロントエンドエンジニア
+
+副業で、Web サービスの技術選定の補佐とフロントエンドの開発を担当。
+
+#### 職務内容
+
+##### 2018 年 05 月: Web サービスの開発
+
+Web サービスの技術選定の補佐と、React を利用した フロントエンドのコーディングを担当。
+
 ###### 使用技術
 
-* React
-* React-Native
-* Ruby on Rails
-* MySQL
+- React
 
 ## 今後やりたいこと
 
