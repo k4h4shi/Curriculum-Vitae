@@ -155,8 +155,7 @@ React Nativeで作られたアプリのフロントエンドをJavaScriptからT
 - Ruby on rails
 - Docker
 
-
-### 2018年 10月 -: 掲示板サイトの開発
+### 2018年 10月 - 12月: 掲示板サイトの開発
 
 #### 職務: デザイナー, フルスタックデベロッパ
 
@@ -170,6 +169,17 @@ Ruby on Railsを使った、単純な掲示板のデザイン、設計、開発�
 - MySQL
 - AWS
 - Sketch
+
+### 2019年 1月 -: 
+#### 職務: フロントエンドデベロッパ
+Fintech系のWebサービスのフロントエンドを担当。
+
+###### 使用技術
+- TypeScript
+- React
+- styled-components
+- jest
+- storybook
 
 ## 今後やりたいこと
 
