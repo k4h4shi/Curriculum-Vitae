@@ -185,7 +185,7 @@ Fintech系のWebサービスのフロントエンドを担当。
 - Rust
 - Figma
 
-### 2023年 8月 - : 予算管理システム向けのUIコンポーネントライブラリの開発
+### 2023年 8月 - 2024年4月: 予算管理システム向けのUIコンポーネントライブラリの開発
 
 #### 職務: フロントエンドデベロッパ
 予算管理システム向けのUIコンポーネントライブラリ開発を担当。
@@ -198,3 +198,20 @@ Fintech系のWebサービスのフロントエンドを担当。
 - jest
 - chromatic
 - github package
+
+## 2024年 4月 - : Line上で動作するLLMを利用した生成AIチャットボット開発。
+
+#### 職務: フルスタックエンジニア
+LINE WebhookのサーバをTypeScriptで開発。LIFFというLINEと連携するフロントエンドフレームワークを使ったフロントエンド開発。
+OpenAIなどのLLMによる生成を提供するAPIを利用して、回答の生成やユースケースに応じたワークフローの実装。
+社内で生成AI利用が活発だったため、DevinやCursorなどを利用した、生成AI駆動の開発を実施。
+
+###### 使用技術
+- TypeScript
+- Next.js
+- vitest
+- Azure
+- OpenAI API
+- Perplexity API
+- Devin
+- Cursor
