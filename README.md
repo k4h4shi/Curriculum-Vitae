@@ -199,7 +199,7 @@ Fintech系のWebサービスのフロントエンドを担当。
 - chromatic
 - github package
 
-## 2024年 4月 - : Line上で動作するLLMを利用した生成AIチャットボット開発。
+### 2024年 4月 - : Line上で動作するLLMを利用した生成AIチャットボット開発。
 
 #### 職務: フルスタックエンジニア
 LINE WebhookのサーバをTypeScriptで開発。LIFFというLINEと連携するフロントエンドフレームワークを使ったフロントエンド開発。
