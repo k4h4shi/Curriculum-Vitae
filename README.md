@@ -43,7 +43,7 @@
 **使用技術**  
 Java, PHP, JS, ES6, Node.js, jQuery, React.js, Vue.js, Spring Framework, MySQL, PostgreSQL, AWS
 
-### GreenPitch（2018年2月 - 5月）
+### サッカーコーチマッチングスマホアプリ開発（2018年2月 - 5月）
 
 **役割：ディレクター、フロントエンドデベロッパ**
 
@@ -70,7 +70,7 @@ React NativeアプリのフロントエンドをJavaScriptからTypeScriptへリ
 **使用技術**  
 React Native, TypeScript, Ruby on Rails
 
-### GreenPitch（2018年8月 - 9月）
+### サッカーコーチマッチングスマホアプリ開発（2018年8月 - 9月）
 
 **役割：ディレクター、デザイナー、フルスタックデベロッパ**
 
