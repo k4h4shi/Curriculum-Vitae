@@ -5,9 +5,7 @@
 | key      | value                                   |
 | -------- | --------------------------------------- |
 | Name     | 髙橋耕太郎(Kotaro Takahashi)            |
-| Facebook | [k4h4shi](https://twitter.com/k4h4shi)  |
-| Twitter  | [@k4h4shi](https://twitter.com/k4h4shi) |
-| Qiita    | [k4h4shi](http://qiita.com/k4h4shi)     |
+| X  | [@k4h4shi](https://twitter.com/k4h4shi) |
 
 ## 一言で言うと
 手を動かしてものを作り、楽しみながら熟達し、その結果生まれたもので役に立ったり楽しませるのが好きな人です。
