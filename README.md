@@ -116,7 +116,7 @@ TypeScript, React, styled-components, Jest, Storybook, Elm, Rust, Figma
 
 **役割：フルスタックエンジニア**
 
-生成AIを用いた日記作成チャットボットのPoCの開発を担当。デザイナー兼POとコミュニケーションしつつ、副業として休日に開発を進めました。
+生成AIを用いた日記作成チャットボットのPoCの開発を担当。デザイナー兼POとコミュニケーションしつつ、副業で参画し、休日に開発を進めました。
 
 **使用技術**  
 TypeScript, Next.js, Azure, OpenAI API, LINE Webhook
