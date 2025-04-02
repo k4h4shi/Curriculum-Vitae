@@ -108,11 +108,18 @@ Fintech系Webサービス『paild』の立ち上げ時よりフロントエン�
 **使用技術**  
 TypeScript, React, styled-components, Jest, Storybook, Elm, Rust, Figma
 
+### LLMを用いた日記作成チャットボットPoC開発(2024年3月)
+
+生成AIを用いた日記作成チャットボットのPoC開発の開発を担当。デザイナー兼POとコミュニケーションしつつ、副業として休日に開発を進めました。
+
+**使用技術**  
+TypeScript, Next.js, Azure, OpenAI API, LINE Webhook
+
 ### 予算管理システム向けUIコンポーネントライブラリ開発（2023年8月 - 2024年4月）
 
 **役割：フロントエンドデベロッパ**
 
-プロジェクトの立ち上げから参画し、デザイナー不在時にはデザイン業務を兼任。開発プロセス整備を推進。
+コンポーネントライブラリの整備を担当。
 
 **使用技術**  
 React, Tailwind, Storybook, Jest, Chromatic, GitHub Packages
