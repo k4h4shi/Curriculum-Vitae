@@ -30,7 +30,18 @@
 
 ## 職務経歴（新しい順）
 
-### LLMを用いたLINEチャットボット開発（2024年4月 - 現在）
+### LLMを用いたAIエージェント開発（2025年5月 - 現在）
+
+**役割：フルスタックエンジニア**
+
+Playwrightなどを用いたAIエージェントの開発をフルスタックに担当。
+
+**使用技術**  
+TypeScript, Next.js, Railway, Open Router, Playwright, Cursor, Claude Code
+
+---
+
+### LLMを用いたLINEチャットボット開発（2024年4月 - 2025年5月）
 
 **役割：フルスタックエンジニア**
 
