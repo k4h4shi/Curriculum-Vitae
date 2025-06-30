@@ -34,7 +34,7 @@
 
 **役割：フルスタックエンジニア**
 
-Playwrightなどを用いたAIエージェントの開発をフルスタックに担当。
+TypeScriptベースで、Open Router, Playwrightなどを用いたAIエージェントの開発をフルスタックに担当。
 
 **使用技術**  
 TypeScript, Next.js, Railway, Open Router, Playwright, Cursor, Claude Code
