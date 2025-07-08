@@ -116,7 +116,7 @@
 **技術スタック**: TypeScript, Next.js, Vitest, Azure, OpenAI API, Perplexity API, Devin, Cursor
 
 **成果・工夫点**:
-- 生成AIツール（Devin, Cursor）を積極活用し、開発効率を大幅に向上
+- 生成AIツール（Devin, Cursor）を積極活用し、AIファーストの開発を推進
 - ユーザー体験を重視したチャットボットのレスポンス設計
 
 ---
