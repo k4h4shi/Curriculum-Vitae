@@ -9,11 +9,12 @@
 | X（旧Twitter）  | [@k4h4shi](https://twitter.com/k4h4shi) |
 
 ## 略歴
-2016年に受託開発およびSESを行う会社で、フルスタックエンジニアとしてキャリアをスタートしました。
+2016年に受託開発およびSESを行う企業にて、フルスタックエンジニアとしてキャリアをスタートしました。
+基礎的なWeb開発力を身につけた後、2018年以降は主にベンチャー企業にて0→1の新規プロダクト立ち上げを複数経験しました。
 
-2018年から主にベンチャー企業にて0→1の新規プロダクト立ち上げを複数経験、フロントエンドを軸にフルスタックに開発しつつ、ディレクターやエンジニアリングマネージャー、PdMなど必要に応じて柔軟に担当しました。
+2019年に参画した株式会社Paildでは、初期フェーズから参画し、フロントエンドを軸にフルスタックで開発しながら、プロダクトフェーズや組織状況に応じて、テックリード、エンジニアリングマネージャー、PdMなどの役割を柔軟に担ってきました。
 
-2023年に独立し、以降は主に生成AI・LLMを活用したプロジェクトに参画しています。
+2023年に独立後は、生成AI・LLMを活用したプロジェクトを中心に参画し、プロダクト化や業務DXに貢献しています。
 
 ## アピールポイント
 
@@ -35,6 +36,8 @@
 **役割：フルスタックエンジニア**
 
 TypeScriptベースで、金融領域の金融商品組成業務のDXを推進。
+- 金融商品組成業務における属人化・手作業プロセスを整理し、LLMを活用したDXの土台を構築
+- 技術検証に留まらず、実業務での利用を前提とした要件定義・設計・実装
 
 **使用技術**  
 TypeScript, Next.js, mastra, hono, Cursor, Claude Code
@@ -47,6 +50,9 @@ TypeScript, Next.js, mastra, hono, Cursor, Claude Code
 
 TypeScriptベースで、Open Router, Playwrightなどを用いたAIエージェントの開発をフルスタックに担当。
 
+- Web操作を含む業務自動化を目的としたAIエージェントの設計・実装
+- Open Router・Playwrightを用い、実行環境や操作フローを考慮したエージェント構成を実装
+
 **使用技術**  
 TypeScript, Next.js, Railway, Open Router, Playwright, Cursor, Claude Code
 
@@ -58,16 +64,22 @@ TypeScript, Next.js, Railway, Open Router, Playwright, Cursor, Claude Code
 
 TypeScriptでLINE Webhookのサーバ開発、LIFFを利用したフロントエンド開発、OpenAI APIを活用した生成AIチャットボットを実装。開発にも生成AIを積極的に活用。
 
+- Webhook、LIFF、生成AI APIを組み合わせ、UXを意識した対話体験を実装
+- プロダクトの方針を踏まえ、既存コードの負債解消のためのリファクタリングを実施
+
 **使用技術**  
 TypeScript, Next.js, Vitest, Azure, OpenAI API, Perplexity API, Devin, Cursor
 
 ---
 
-### 日記作成チャットボットPoC開発案件（2024年3月） ｜ フリーランス
+### 日記作成チャットボットPoC開発案件（2024年3月） ｜ 副業
 
 **役割：フルスタックエンジニア**
 
 生成AIを用いた日記作成チャットボットのPoCの開発を担当。デザイナー兼POとコミュニケーションしつつ、副業で参画し、休日に開発を進めました。
+
+- デザイナー兼POと連携し、実装全てを担当
+- 限られた稼働（休日）でも価値検証ができる実装を短期で実現
 
 **使用技術**  
 TypeScript, Next.js, Azure, OpenAI API, LINE Webhook
@@ -80,6 +92,10 @@ TypeScript, Next.js, Azure, OpenAI API, LINE Webhook
 
 コンポーネントライブラリの整備を担当。
 
+- UIコンポーネントの設計・共通化を推進し、開発効率とUI品質を向上
+- Storybook・Chromaticを用いたビジュアルリグレッション体制を構築
+- 複数チームでの利用を想定した再利用可能な設計を実現
+
 **使用技術**  
 React, Tailwind, Storybook, Jest, Chromatic, GitHub Packages
 
@@ -89,7 +105,13 @@ React, Tailwind, Storybook, Jest, Chromatic, GitHub Packages
 
 **役割：フロントエンドデベロッパ、エンジニアリングマネージャー**
 
-Fintech系Webサービス『paild』の立ち上げ時よりフロントエンド開発を主導。2021年にはチーム拡大に伴い、一時的にPdMを兼任、その後エンジニアリングマネージャーとして3名から8名規模のチームマネジメントを担当。その後、エンジニアとして再びフロントエンドのリファクタリング、新規事業開発を担当。
+Fintech系Webサービス『paild』のプロダクト開発およびチーム、プロダクトのマネジメントを担当。
+
+- 0→1立ち上げフェーズから参画し、フロントエンド開発を主導
+- プロダクト成長に伴いPdMを一時兼任し、仕様策定・優先順位付け、開発フローおよび開発タスクの整理を担当
+- エンジニアリングマネージャーとして3名→8名規模のチームをマネジメント
+  - 開発プロセスや評価、採用、ビジョンや目標の策定を担当
+  - プロダクト開発の安定性と事業の成長の維持の両立に貢献
 
 **使用技術**  
 TypeScript, React, styled-components, Jest, Storybook, Elm, Rust, Figma
@@ -168,9 +190,12 @@ React Native, Ruby on Rails, MySQL, Firebase
 
 **役割：プログラマ、フルスタックデベロッパ**
 
-受託および常駐でのB向けWebシステム開発をフルスタックで担当しました。
+受託および常駐でのB向けWebシステム開発をフルスタックで担当し、エンジニアとしてのキャリアを開始。
+
+- 受託・常駐双方でB向けWebシステム開発に従事
 - 小規模案件：仕様ディレクション、技術選定、開発全般。
 - 中～大規模案件：共通ライブラリや各機能の設計・実装・テストを担当。
+
 
 **使用技術**  
 Java, PHP, JS, ES6, Node.js, jQuery, React.js, Vue.js, Spring Framework, MySQL, PostgreSQL, AWS
