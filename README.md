@@ -187,6 +187,9 @@ Java, PHP, JS, ES6, Node.js, jQuery, React.js, Vue.js, Spring Framework, MySQL, 
 ### [paild](https://www.paild.io/)
 ゼロから立ち上げフェーズでフロントエンド開発を主導したプロダクトです。
 
+### [vive](https://github.com/k4h4shi/vive)
+並行AIエージェント開発の管理を楽にするRust製のTUIツールです。
+
 ### [dpndon.io](https://k4h4shi.github.io/dpndon.io/)
 特定のnpmモジュールの依存関係をリスト表示するReact製のSPAです。
 
